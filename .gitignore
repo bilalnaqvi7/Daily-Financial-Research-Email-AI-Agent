@@ -1,0 +1,11 @@
+# Secrets / credentials
+.env
+*.env
+
+# n8n local data (if used)
+.n8n/
+database.sqlite
+
+# OS junk
+.DS_Store
+Thumbs.db
